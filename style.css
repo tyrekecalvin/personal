@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://scontent.xx.fbcdn.net/t31.0-8/q89/s960x960/1462639_10200845643254275_943578635_o.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+h1{
+    color: red;
+    font-size: 490%;
+    text-align: center
+}
+p{
+    color: blue;
+    font-size: 190%;
+    text-align: center;
+}
+ul{
+    color: red;
+    font-size: 495%
+}
+button{
+     cursor:  Pointer;
+    background-color:blue;
+  border: blue;
+  cursor: Pointer;
+  margin: 16px 17px;
+  text-align: center;
+  font-size: 50px;
+  padding: 70px 60px;
+  color:red;
+  border-radius: 20px;
+  padding: 10px 10px;
+  transition-duration: 0.08s;
+}
+button:hover{
+  background-color:red;
+  color: blue;
+}
+.apple:hover{
+    color: red;
+}
