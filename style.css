@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://scontent.xx.fbcdn.net/t31.0-8/q89/s960x960/1462639_10200845643254275_943578635_o.jpg");
+    background-image: url("image/gogeta.png");
      background-repeat: no-repeat;
      background-size: cover;
 }
@@ -9,13 +9,17 @@ h1{
     text-align: center
 }
 p{
-    color: blue;
+    color: green;
     font-size: 190%;
     text-align: center;
+    font-weight: bolder;
 }
 ul{
     color: red;
     font-size: 495%
+}
+li{
+    list-style-type: none;
 }
 button{
      cursor:  Pointer;
